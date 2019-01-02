@@ -2,7 +2,7 @@ from tkinter import Tk, Radiobutton, IntVar, Label
 import random
 
 class Multi:
-    """Simple application for multiplying numbers """
+    """Simple application for multiplying numbers"""
     def __init__(self, window):
         self.window = window
         window.title("Multiplication")
